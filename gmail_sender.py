@@ -17,6 +17,6 @@ listOfAddress=["1st email.com","2nd gmail.com"]
 ob.sendmail("pankajrnaik317",listOfAddress,message)
 #take 3 parameter email from ,no of email and msg
 
-print("jale ra send")
+print("jale ra send or finished ")
 ob.quit()
 
